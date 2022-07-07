@@ -1,0 +1,186 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.donate {
+    text-align: center;
+    background-image: url(images/donation8.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-right: 0;
+    font-weight: 500px;
+
+
+}
+
+.donate p {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: red;
+    font-weight: 200px;
+
+
+}
+
+.donate-now {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.header-section {
+
+    height: 100vh;
+}
+
+.amount {
+    display: flex;
+    text-align: center;
+    padding: 10px 200px 10px 200px;
+    margin-left: 100px;
+
+}
+
+.donation-section {
+    text-align: center;
+}
+
+.amount-size {
+    padding: 20px;
+}
+
+.amount-size {
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+#second-amount {
+    background-color: pink;
+    border: 1px solid red;
+}
+
+hr {
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+.other-amount {
+    color: gray;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.food-shelter-class {
+    display: flex;
+    border: 1px solid white;
+    margin: 50px;
+}
+
+.donate-plan-para {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.food {
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 100px 5px 40px 5px;
+    width: 80%;
+    text-align: left;
+
+}
+
+.shelter {
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-color: plum;
+    margin: 10px;
+    padding: 100px 5px 40px 5px;
+    width: 80%;
+    text-align: left;
+}
+
+.education {
+    background-image: url(icons/icon5.svg);
+    background-repeat: no-repeat;
+    background-color: bisque;
+    margin: 10px;
+    padding: 100px 5px 40px 5px;
+    width: 80%;
+    text-align: left;
+}
+
+.heading-f-s {
+    margin-right: 100px;
+}
+
+.bonus-section {
+    text-align: center;
+}
+
+.bonus-d {
+    border: 50px solid rosybrown;
+    border-radius: 300px;
+    background-image: url(images/donation5.jpg);
+    background-color: antiquewhite;
+    color: red;
+
+}
+
+.bonus-a {
+    border: 2px solid whitesmoke;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.update {
+    text-align: center;
+}
+
+.btn {
+    background-color: bisque;
+    height: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+
+    text-align: center;
+    padding-top: 30px;
+    display: flex;
+    padding-left: 100px;
+    padding-bottom: 20px;
+
+}
+
+
+
+.real-btn {
+    background-color: aquamarine;
+
+}
+
+.email-btn {
+    background-color: wheat;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
