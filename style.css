@@ -10,8 +10,10 @@ body {
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
-    margin-right: 0;
+    margin-right: 0px;
     font-weight: 500px;
+    background-size: cover;
+
 
 
 }
@@ -20,7 +22,7 @@ body {
     text-align: center;
     padding-left: 200px;
     padding-right: 200px;
-    color: red;
+    color: yellow;
     font-weight: 200px;
 
 
@@ -33,6 +35,11 @@ body {
     border-radius: 5px;
     text-decoration: none;
 
+}
+
+.donate-now:hover {
+    background-color: aqua;
+    color: black;
 }
 
 .header-section {
@@ -137,16 +144,17 @@ hr {
     background-image: url(images/donation5.jpg);
     background-color: antiquewhite;
     color: red;
-
+    background-size: cover;
 }
 
 .bonus-a {
     border: 2px solid whitesmoke;
-    background-color: orangered;
+    background-color: red;
     border-radius: 5px;
     padding: 5px;
     text-decoration: none;
     text-align: center;
+    color: aliceblue;
 }
 
 .update {
